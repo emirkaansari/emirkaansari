@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Ngnix, RabbitMQ**
 
-- 📫 How to reach me **emirkaansari@gmail.com**
+- 📫 Reach me **emirkaansari@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
