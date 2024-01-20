@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emirkaansari&label=Profile%20views&color=0e75b6&style=flat" alt="emirkaansari" /> </p>
 
-- 🔭 I’m currently working on **gig adventure!**
+- 🔭 I’m currently working on **study buddy!**
 
 - 🌱 I’m currently learning **Ngnix, RabbitMQ**
 
